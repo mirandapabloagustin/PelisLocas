@@ -1,0 +1,148 @@
+# depslib dependency file v1.0
+1655651219 source:c:\users\agus-notebook\desktop\facultad\programacion y laboratorio\trabajo final cuatrimestre\proyectofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+
+1491400450 source:c:\users\agus-notebook\desktop\facultad\programacion y laboratorio\trabajo final cuatrimestre\proyectofinal\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1655678552 source:c:\users\agus-notebook\desktop\facultad\programacion y laboratorio\trabajo final cuatrimestre\proyectofinal\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	"pila.h"
+
+1655677108 source:c:\users\agus-notebook\desktop\facultad\programacion y laboratorio\trabajo final cuatrimestre\proyectofinal\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+
+1655678314 source:c:\users\agus-notebook\desktop\facultad\programacion y laboratorio\trabajo final cuatrimestre\proyectofinal\utilidades.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+
+1617752072 source:c:\users\agus-notebook\desktop\facultad\programacion y laboratorio\trabajo final cuatrimestre\proyectofinal\pila.c
+	"pila.h"
+
+1617746534 c:\users\agus-notebook\desktop\facultad\programacion y laboratorio\trabajo final cuatrimestre\proyectofinal\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1491400450 source:c:\users\agus-notebook\desktop\proyecto final cuatrimestre\pelislocas\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1655677108 source:c:\users\agus-notebook\desktop\proyecto final cuatrimestre\pelislocas\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+
+1617752072 source:c:\users\agus-notebook\desktop\proyecto final cuatrimestre\pelislocas\pila.c
+	"pila.h"
+
+1617746534 c:\users\agus-notebook\desktop\proyecto final cuatrimestre\pelislocas\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1655678552 source:c:\users\agus-notebook\desktop\proyecto final cuatrimestre\pelislocas\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	"pila.h"
+
+1655678314 source:c:\users\agus-notebook\desktop\proyecto final cuatrimestre\pelislocas\utilidades.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+
+1660994428 source:c:\users\agus-notebook\desktop\proyecto final cuatrimestre\pelislocas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+
+1491400450 source:c:\users\agus-notebook\desktop\facultad\1per cuatrimestre\programacion y laboratorio\proyecto final cuatrimestre\pelislocas\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1655677108 source:c:\users\agus-notebook\desktop\facultad\1per cuatrimestre\programacion y laboratorio\proyecto final cuatrimestre\pelislocas\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+
+1617752072 source:c:\users\agus-notebook\desktop\facultad\1per cuatrimestre\programacion y laboratorio\proyecto final cuatrimestre\pelislocas\pila.c
+	"pila.h"
+
+1617746534 c:\users\agus-notebook\desktop\facultad\1per cuatrimestre\programacion y laboratorio\proyecto final cuatrimestre\pelislocas\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1655678552 source:c:\users\agus-notebook\desktop\facultad\1per cuatrimestre\programacion y laboratorio\proyecto final cuatrimestre\pelislocas\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	"pila.h"
+
+1655678314 source:c:\users\agus-notebook\desktop\facultad\1per cuatrimestre\programacion y laboratorio\proyecto final cuatrimestre\pelislocas\utilidades.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+
+1661181152 source:c:\users\agus-notebook\desktop\facultad\1per cuatrimestre\programacion y laboratorio\proyecto final cuatrimestre\pelislocas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+

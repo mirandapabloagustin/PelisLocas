@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="gotoxy.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="450" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="usuario.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1253" topLine="33" />
+		</Cursor>
+		<Folding>
+			<Collapse line="34" />
+			<Collapse line="158" />
+			<Collapse line="203" />
+			<Collapse line="251" />
+			<Collapse line="287" />
+			<Collapse line="333" />
+			<Collapse line="360" />
+			<Collapse line="404" />
+			<Collapse line="441" />
+			<Collapse line="483" />
+			<Collapse line="525" />
+			<Collapse line="567" />
+			<Collapse line="607" />
+			<Collapse line="626" />
+			<Collapse line="670" />
+			<Collapse line="689" />
+			<Collapse line="723" />
+			<Collapse line="755" />
+			<Collapse line="796" />
+			<Collapse line="828" />
+			<Collapse line="873" />
+			<Collapse line="895" />
+			<Collapse line="917" />
+			<Collapse line="938" />
+			<Collapse line="963" />
+			<Collapse line="993" />
+			<Collapse line="1019" />
+			<Collapse line="1042" />
+			<Collapse line="1068" />
+			<Collapse line="1107" />
+			<Collapse line="1141" />
+			<Collapse line="1158" />
+			<Collapse line="1177" />
+			<Collapse line="1222" />
+			<Collapse line="1260" />
+			<Collapse line="1313" />
+			<Collapse line="1370" />
+			<Collapse line="1410" />
+			<Collapse line="1426" />
+			<Collapse line="1479" />
+		</Folding>
+	</File>
+	<File name="peliculas.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="21898" topLine="170" />
+		</Cursor>
+		<Folding>
+			<Collapse line="26" />
+			<Collapse line="65" />
+			<Collapse line="91" />
+			<Collapse line="156" />
+			<Collapse line="190" />
+			<Collapse line="238" />
+			<Collapse line="251" />
+			<Collapse line="264" />
+			<Collapse line="300" />
+			<Collapse line="330" />
+			<Collapse line="357" />
+			<Collapse line="384" />
+			<Collapse line="413" />
+			<Collapse line="453" />
+			<Collapse line="501" />
+			<Collapse line="546" />
+			<Collapse line="586" />
+			<Collapse line="627" />
+			<Collapse line="672" />
+			<Collapse line="700" />
+			<Collapse line="724" />
+			<Collapse line="746" />
+		</Folding>
+	</File>
+	<File name="utilidades.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="711" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="usuario.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1122" topLine="25" />
+		</Cursor>
+	</File>
+	<File name="utilidades.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="60" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="94" />
+			<Collapse line="112" />
+			<Collapse line="121" />
+			<Collapse line="133" />
+			<Collapse line="157" />
+			<Collapse line="176" />
+			<Collapse line="186" />
+			<Collapse line="213" />
+			<Collapse line="280" />
+			<Collapse line="298" />
+			<Collapse line="311" />
+			<Collapse line="325" />
+			<Collapse line="339" />
+			<Collapse line="352" />
+			<Collapse line="382" />
+			<Collapse line="392" />
+		</Folding>
+	</File>
+	<File name="peliculas.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1291" topLine="16" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="220" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
